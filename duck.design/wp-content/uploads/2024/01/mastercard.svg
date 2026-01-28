@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="33" viewBox="0 0 32 33" fill="none">
+  <g id="mastercard">
+    <circle id="left" cx="10" cy="16.3789" r="9" fill="#CCD0DA"></circle>
+    <circle id="right" cx="22" cy="16.3789" r="9" fill="#F1F3F8"></circle>
+    <path id="middle" d="M16 23.0874C17.8413 21.4395 19 19.0447 19 16.3792C19 13.7136 17.8413 11.3188 16 9.6709C14.1587 11.3188 13 13.7136 13 16.3792C13 19.0447 14.1587 21.4395 16 23.0874Z" fill="#DCE0E7"></path>
+  </g>
+</svg>

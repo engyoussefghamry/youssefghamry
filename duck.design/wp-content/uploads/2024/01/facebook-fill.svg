@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="27" viewBox="0 0 26 27" fill="none">
+  <g id="akar-icons:facebook-fill" clip-path="url(#clip0_725_902)">
+    <path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0 13.4515C0 19.9147 4.69408 25.2891 10.8333 26.3789V16.9897H7.58333V13.3789H10.8333V10.4897C10.8333 7.23966 12.9274 5.43482 15.8893 5.43482C16.8274 5.43482 17.8393 5.57891 18.7774 5.72299V9.04557H17.1167C15.5274 9.04557 15.1667 9.83966 15.1667 10.8515V13.3789H18.6333L18.0559 16.9897H15.1667V26.3789C21.3059 25.2891 26 19.9157 26 13.4515C26 6.26141 20.15 0.378906 13 0.378906C5.85 0.378906 0 6.26141 0 13.4515Z" fill="#FFE39B"></path>
+  </g>
+  <defs>
+    <clipPath id="clip0_725_902">
+      <rect width="26" height="26" fill="white" transform="translate(0 0.378906)"></rect>
+    </clipPath>
+  </defs>
+</svg>

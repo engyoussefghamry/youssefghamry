@@ -1,0 +1,99 @@
+@media (min-width:1201px) and (max-width:1400px) {}
+
+@media (min-width:993px) and (max-width:1200px) {
+    section.case-study-banner img {
+        width: 100%;
+    }
+
+    .case-study-banner-caption h1 {
+        font-size: 34px;
+
+    }
+
+    .industry-health-care .left-wrap h2 {
+        font-weight: bold;
+        font-size: 35px;
+    }
+}
+
+@media (min-width:768px) and (max-width:992px) {
+    section.case-study-banner img {
+        width: 100%;
+    }
+
+    .case-study-banner-caption p {
+        font-size: 13px;
+
+    }
+
+    .case-study-banner-caption h1 {
+        font-size: 30px;
+
+    }
+
+    .case-study-banner-caption {
+        position: absolute;
+        top: 0;
+        right: 5%;
+        top: 14%;
+        width: 34%;
+    }
+
+    .industry-health-care .left-wrap h2 {
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    .industry-health-care .right-wrap ul h3 {
+        font-weight: 800;
+        font-size: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    section.case-study-banner img {
+        width: 100%;
+    }
+
+    .case-study-banner-caption p {
+        font-size: 13px;
+
+    }
+
+    .case-study-banner-caption h1 {
+        font-size: 20px;
+
+    }
+
+    .case-study-banner-caption {
+        position: absolute;
+        top: 0;
+        right: 5%;
+        top: 14%;
+        width: 34%;
+    }
+
+    div#nav-tabContent {
+        padding-top: 20px;
+    }
+
+    .industry-health-care .left-wrap h2 {
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .industry-health-care .right-wrap ul h3 {
+        font-weight: 800;
+        font-size: 30px;
+    }
+
+    .industry-health-care .left-wrap {
+        text-align: center;
+        margin-bottom: 28px;
+    }
+
+}
+
+@media(max-width:480px) {}
+
+@media(max-width:360px) {}

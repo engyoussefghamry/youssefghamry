@@ -1,0 +1,108 @@
+@media (min-width:1201px) and (max-width:1400px) {}
+
+@media (min-width:993px) and (max-width:1200px) {}
+
+@media (min-width:768px) and (max-width:992px) {
+    .ai-seo-package-con .package-features {
+    padding: 25px;
+    height: 500px;
+    overflow: auto;
+}.empowering-sec .row {
+    justify-content: center;
+}
+
+.empowering-sec .col-md-3 {
+    width: 49%;
+    margin-bottom: 12px;
+}section.seo-succ-story .succ-card ul li {
+    width: 100%;
+    display: flex
+;
+    gap: 10px;
+    align-items: center;
+    font-size: 12px;
+}
+section.seo-succ-story .succ-card ul li i {
+    color: #FFC107;
+    width: 19px;
+    height: 19px;
+    background: #000;
+    display: flex
+;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    font-size: 9px;
+}.process-line {
+    display: none;
+}.easy-work-process .nav.nav-pills.grow-with-tab a.nav-link {
+    width: 48%;
+    text-align: center;
+    height: 152px;
+    border-radius: 20px !important;
+}
+
+section.amazon-product-opt .col-md-4 {
+    width: 49%;
+}
+
+section.amazon-product-opt .col-md-4 .amazon-card {
+    height: 473px;
+    overflow: auto;
+}
+
+section.amazon-product-opt .row {
+    justify-content: center;
+}
+}
+
+@media(max-width:767px) {
+.ai-seo-package-con .package-features {
+    padding: 25px;
+    height: 912px;
+    overflow: auto;
+}
+        .ai-seo-package-con .package {
+        width: 100%;
+        max-width: 100%;
+    }section.ai-package-only .section-title-wrap.pb30 {
+    margin: 0 !important;
+    padding: 0;
+}.process-line {
+    display: none;
+}
+    section.page-about-sec h2 {
+           
+            font-size: 30px;
+          
+        }section.seo-succ-story .succ-card {
+            text-align: center;
+            margin-bottom: 30px;
+        }section.seo-marketing h2 {
+            color: var(--headingcolor);
+            text-align: center;
+            font-size: 30px;
+            font-family: poppinsbold;
+            padding-bottom: 13px;
+        }
+
+
+                .easy-work-process .nav.nav-pills.grow-with-tab a.nav-link,
+                section.ezbanner-2024 figure img {
+                    width: 100%;
+                    height: auto
+                }
+        
+             
+        
+                .easy-work-process .nav.nav-pills.grow-with-tab a:nth-child(odd) {
+                    margin-top: 20px;
+                    margin-bottom: 30px
+                }
+        
+     
+}
+
+@media(max-width:480px) {}
+
+@media(max-width:360px) {}

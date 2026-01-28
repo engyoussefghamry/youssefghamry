@@ -27176,3 +27176,20 @@ svg:not(:root) {
   .custom-development-services {
 	padding-top: 60px;
   }
+  
+section.portfolio_slider {
+    display: none !important;
+}
+section#top_rated_devs {
+    display: none !important;
+}
+
+section#web_dev_testimonial {
+    display: none !important;
+}
+.directory_box {
+    display: none !important;
+}
+section#web_dev_blog {
+    display: none !important;
+}

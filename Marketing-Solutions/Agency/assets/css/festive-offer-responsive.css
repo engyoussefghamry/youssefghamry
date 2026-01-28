@@ -1,0 +1,24 @@
+@media(max-width:767px) {
+
+    section.fastival-wrapper .discount_heading h2 {
+
+        font-size: 24px;
+
+    }
+
+    section.fastival-wrapper .discount_heading h4 {
+        font-size: 16px;
+
+    }
+
+    section.fastival-wrapper p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    section.fastival-wrapper .offer-card {
+
+        height: auto;
+    }
+
+}

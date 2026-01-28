@@ -1,0 +1,263 @@
+@media (min-width:1201px) and (max-width:1400px) {}
+
+@media (min-width:993px) and (max-width:1200px) {}
+
+@media (min-width:768px) and (max-width:1200px) {
+    .top-grid {
+
+        width: 84%;
+        text-align: center;
+    }
+
+    .top-grid p {
+
+        font-size: 19px;
+
+    }
+
+    section.seo-succ-story .succ-card ul li {
+
+        margin-bottom: 10px;
+    }
+
+    .seo-roadmap .step-text {
+        height: 200px;
+        overflow: auto;
+    }
+
+    .process-line {
+        display: none;
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab {
+
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab a {
+        margin-top: 60px;
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab a.nav-link {
+        width: 48%;
+
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab a:nth-child(odd) {
+        margin-top: 60px;
+    }
+
+    .thing-box {
+        height: auto !important;
+        min-height: auto;
+    }
+
+    section.seo-succ-story .succ-card ul li {
+
+        font-size: 13px;
+        text-align: left;
+        line-height: 23px;
+    }
+
+    section.seo-succ-story .succ-card ul li i {
+
+        flex-shrink: 0;
+    }
+
+    section.seo-succ-story .succ-card img {
+
+        height: 174px;
+
+    }
+
+    .amazon-card p {
+        height: 200px;
+        overflow: auto;
+        padding-right: 5px;
+    }
+
+    section.ls-result .row {
+        justify-content: center;
+    }
+
+    section.ls-result .col-md-3 {
+        flex: 0 0 48%;
+        margin-bottom: 20px;
+    }
+
+    .seo-reseller-pro ul li h3 {
+        font-size: 17px;
+    }
+
+
+
+    .seo-roadmap .step-card {
+
+        height: auto;
+
+    }
+
+    .service-section .service-clm p {
+        height: 148px;
+        margin-bottom: 20px;
+        overflow: auto !important;
+    }
+}
+
+@media (min-width:768px) and (max-width:992px) {
+    .seo-roadmap .step-card {
+
+        height: auto;
+
+    }
+
+    .seo-roadmap .step-text {
+        height: auto;
+        overflow: auto;
+    }
+
+    .service-section .service-clm p {
+        height: 148px;
+        margin-bottom: 20px;
+        overflow: auto !important;
+    }
+}
+
+@media(max-width:767px) {
+    .seo-reseller-pro ul {
+
+        flex-direction: column;
+    }
+
+    .seo-reseller-pro ul li {
+
+        width: 100%;
+
+    }
+
+    .amazon-card {
+
+        min-height: auto;
+
+    }
+
+    section.seo-reseller-pro .left a.join-us {
+
+        padding: 16px 20px;
+
+        font-size: 14px;
+
+    }
+
+    section.seo-succ-story .succ-card {
+        text-align: center;
+        margin-bottom: 24px;
+    }
+
+    .process-line {
+        display: none
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab a.nav-link {
+        height: 299px
+    }
+
+    section.timeline-sec {
+        padding: 45px 0 50px
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab a:nth-child(odd) {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab a.nav-link {
+        height: auto;
+    }
+
+    .easy-work-process .nav.nav-pills.grow-with-tab a.nav-link {
+        width: 100%;
+    }
+
+    .top-grid {
+
+
+        width: 100%;
+        text-align: center;
+    }
+
+    .top-grid p {
+        line-height: 64px;
+        font-size: 19px;
+        color: #fff;
+        font-family: poppinssemibold;
+    }
+
+    section.seo-marketing h2 {
+
+        font-size: 30px;
+
+    }
+
+    section.seo-succ-story .succ-card ul li {
+
+        align-items: baseline;
+    }
+
+    section.seo-succ-story .succ-card ul li {
+        text-align: left;
+        line-height: 21px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+
+    .form .form-group {
+        margin-bottom: 14px;
+    }
+
+    .seo-reseller-partner-form .col-md-2.form-group {
+        padding-bottom: 0;
+    }
+
+    .industries-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+        gap: 8px;
+        margin-top: 20px;
+    }
+
+    .industries-grid .industry-card {
+        width: 99%;
+    }
+
+    .seo-roadmap .step-card {
+        margin-top: 2px;
+    }
+
+    .seo-roadmap .timeline {
+
+        margin-top: 35px;
+    }
+
+    .seo-roadmap .timeline {
+
+        padding: 0;
+    }
+
+    .seo-roadmap .step-card {
+
+        height: auto;
+
+    }
+}
+
+@media(max-width:480px) {}
+
+@media(max-width:360px) {}

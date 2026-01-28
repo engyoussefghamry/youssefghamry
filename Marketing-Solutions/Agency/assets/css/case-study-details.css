@@ -1,0 +1,237 @@
+/*.result-view img {max-width: 100%;}section#case-study table {width: 100%;background: #eee;}table.table.seo-rank-table th {COLOR: #000 !IMPORTANT;}table.table.seo-rank-table td {color: #000 !important;background-color: #fff;}table.table.seo-rank-table tr {background-color: #fff !important;}table.table.seo-rank-table td:first-child {border-right: 1px solid #ddd;width: 73%;}table.table.seo-rank-table th {background: #f9cf2f;width: 50% !important;}table.table.seo-rank-table th {COLOR: #000 !IMPORTANT;}table.table.seo-rank-table td {color: #000 !important;background-color: #fff;}table.table.seo-rank-table tr {background-color: #fff !important;}table.table.seo-rank-table td:first-child {border-right: 1px solid #ddd;width: 73%;}table.table.seo-rank-table th {background: #f9cf2f;width: 50% !important;}.seo-results-tab {border: 10px solid #ddd;padding: 16px;margin-top: 40px;}.seo-results-tab h5 {font-weight: bold;font-size: 30px;}.case-study-rank .case-item {position: sticky;top: 70px;background: #fff;border: 1px solid #ddd;padding: 10px;}.right-side {position: sticky;top: 95px;}.right-side h3 {margin-bottom: 13px;font-size: 24px;text-transform: uppercase;margin-top: 60px;font-weight: 700;line-height: 28px;}.left-side h4, .left-side p {border-bottom: 1px solid #e2e2e2;}.left-side {position: sticky;top: 94px;}.left-side h4 {padding: 10px 0;font-size: 22px;}.client-details p {margin: 0;}*/
+.result-view img {
+    max-width: 100%;
+}
+
+section#case-study table {
+    width: 100%;
+    background: #eee;
+}
+
+table.table.seo-rank-table th {
+    COLOR: #000 !IMPORTANT;
+}
+
+table.table.seo-rank-table td {
+    color: #000 !important;
+    background-color: #fff;
+}
+
+table.table.seo-rank-table tr {
+    background-color: #fff !important;
+}
+
+table.table.seo-rank-table td:first-child {
+    border-right: 1px solid #ddd;
+    width: 73%;
+}
+
+table.table.seo-rank-table th {
+    background: #f9cf2f;
+    width: 50% !important;
+}
+
+table.table.seo-rank-table th {
+    COLOR: #000 !IMPORTANT;
+}
+
+table.table.seo-rank-table td {
+    color: #000 !important;
+    background-color: #fff;
+    padding: 1px 12px;
+    font-size: 14px;
+}
+
+.case-study-rank table.table.seo-rank-table {
+    margin: 0;
+    padding: 0;
+}
+
+table.table.seo-rank-table tr {
+    background-color: #fff !important;
+}
+
+table.table.seo-rank-table th {
+    background: #f9cf2f;
+    width: 50% !important;
+    white-space: pre;
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+table.table.seo-rank-table th {
+    background: #f9cf2f;
+    width: 50% !important;
+    white-space: pre;
+}
+
+.seo-results-tab {
+    margin-top: 30px;
+}
+
+.seo-results-tab h5 {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.case-study-rank .case-item {
+    position: sticky;
+    top: 70px;
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.right-side {
+    position: sticky;
+    top: 95px;
+}
+
+.right-side h3 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 32px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.left-side h4,
+.left-side p {
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.left-side {
+    position: sticky;
+    top: 94px;
+}
+
+.left-side h4 {
+    padding: 10px 0;
+    font-size: 22px;
+}
+
+.client-details p {
+    margin: 0;
+}
+
+
+/* Start */
+.case-study-banner {
+    position: relative;
+    padding: 0;
+}
+
+/* .case-study-banner-caption {
+    position: absolute;
+    top: 0;
+    right: 5%;
+    top: 25%;
+    width: 28%;
+} */
+.case-study-banner-caption {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.case-study-banner-caption p {
+    font-size: 30px;
+    font-weight: 600;
+    color: #f9cf2f;
+    margin: 0;
+    padding: 0;
+}
+
+.case-study-banner-caption h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.industry-health-care {
+    border-top: 6px solid #f9cf2f;
+    border-bottom: 6px solid #f9cf2f;
+    padding: 20px;
+}
+
+.industry-health-care .row {
+    align-items: center;
+    justify-content: center;
+}
+
+.industry-health-care .left-wrap h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.industry-health-care .left-wrap h2 span {
+    background: #f9cf2f;
+    padding: 17px;
+}
+
+.industry-health-care .right-wrap ul {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.industry-health-care .right-wrap ul h3 {
+    font-weight: 800;
+    font-size: 47px;
+}
+
+.industry-health-care .right-wrap ul li {
+    text-align: center;
+}
+
+.industry-health-care .right-wrap ul li p {
+    margin: 0;
+}
+
+section.left-tab-wrapper .row {
+    background: #fff;
+    padding: 20px;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #000;
+    background-color: #f9cf2f;
+    border-color: #f9cf2f;
+}
+
+section.left-tab-wrapper .list-group-item.active:before {
+    content: '';
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    background-color: #f9cf2f;
+    top: 32%;
+    right: -10px;
+    transform: rotate(-45deg);
+}
+
+/* End */
+/* =========================== */
+.case-study-banner .case-study-banner-img img {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.industry-head .right-wrap ul li h3 {
+    color: green;
+}
+
+.industry-head .right-wrap ul li p {
+    margin: 0;
+    line-height: 24px;
+}

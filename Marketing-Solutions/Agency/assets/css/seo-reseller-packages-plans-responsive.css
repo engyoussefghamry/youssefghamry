@@ -1,0 +1,63 @@
+@media (min-width:1201px) and (max-width:1400px) {}
+@media (min-width:993px) and (max-width:1200px) 
+{
+.packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .plans ul li {
+      
+        text-align: center;
+        line-height: 20px;
+    }
+    
+    
+    section.seo-reseller-solution p {line-height: 21px;font-size: 15px;color: #454343;text-align: center;}}
+@media (min-width:768px) and (max-width:992px) 
+{
+
+    .packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .plans ul li {
+            width: 100%;
+            display: block;
+        }
+    
+        .packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .plans ul {
+            width: 100%;
+        }
+.packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .pro-num {
+        flex-direction: column;
+    }
+
+    .packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .pro-num h3 {
+        margin-bottom: 13px;
+    }
+
+    .packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .plans ul {
+        flex-direction: column;
+    }
+
+    .packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .plans {
+        flex-direction: column;
+    }
+
+    .packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .plans h3 {
+        margin-bottom: 20px;
+    }
+
+    .pp-inner-tab-content .price-btn-wrap a {
+        font-size: 14px;
+        padding: 15px;
+    }
+
+    .pp-inner-tab-content .price-btn-wrap h3 {
+        font-size: 30px;
+    }
+    .packages-new-wrap .packages-new-box>ul.nav.nav-tabs {
+       
+        flex-wrap: nowrap !important;
+    }.packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .pro-num {
+        padding: 20px;
+    }
+.packages-new-wrap .packages-new-box>.tab-content .tab-pane .new-packages-wrapper .first-tabs-box .plans {
+    padding: 20px;
+}
+    
+    .container.reseller-solution-grid .col-md-4 {flex: 0 0 50%;max-width: 50%;}.container.reseller-solution-grid .col-md-4 .item p {font-size: 16px;}section.service-section.bg-gray .col-md-4 {flex: 0 0 50%;max-width: 100%;}section.lets-talk-wrapper .card-3 h3 {font-size: 15px !important;}}@media(max-width:767px) {.seo-reseller-pro ul li {width: 100%;}section.seo-reseller-pro .left a.join-us {background: #f9cf2f;padding: 12px 18px;}.seo-reseller-pro ul {flex-direction: column;}.reseller-benifits-section .r-card img {border-radius: 8px;width: 100%;height: auto;}section.seo-reseller-solution .container-fluid a.btn {margin-bottom: 10px;}}
+@media(max-width:480px) {.container.reseller-solution-grid .item {height: auto !important;}}
+@media(max-width:360px) {}
